@@ -1,4 +1,4 @@
-import FAQScreen from '../src/screens/FAQScreen';
+import FAQScreen from "../src/screens/FaqScreen"; 
 
 export default FAQScreen; 
 
